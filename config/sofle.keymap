@@ -91,11 +91,11 @@
 
         layer_3 {
             bindings = <
-&trans         &trans         &trans         &trans             &trans         &trans                    &trans  &trans  &trans  &trans  &trans  &trans
-&trans         &trans         &kp LA(LC(Q))  &kp LA(LC(ENTER))  &kp LA(LC(E))  &trans                    &trans  &trans  &trans  &trans  &trans  &trans
-&kp LA(LC(U))  &kp LA(LC(I))  &kp LA(LC(Z))  &kp LA(LC(X))      &kp LA(LC(C))  &trans                    &trans  &trans  &trans  &trans  &trans  &trans
-&kp LA(LC(J))  &kp LA(LC(K))  &kp LA(LC(R))  &kp LA(LC(T))      &kp LA(LC(Y))  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-                              &kp LA(LC(F))  &kp LA(LC(G))      &kp LA(LC(H))  &trans  &trans    &trans  &trans  &trans  &trans  &trans
+&trans            &trans             &trans         &trans             &trans         &trans                    &trans  &trans  &trans  &trans  &trans  &trans
+&kp LA(LC(LEFT))  &kp LA(LC(RIGHT))  &kp LA(LC(Q))  &kp LA(LC(ENTER))  &kp LA(LC(E))  &trans                    &trans  &trans  &trans  &trans  &trans  &trans
+&kp LA(LC(U))     &kp LA(LC(I))      &kp LA(LC(Z))  &kp LA(LC(X))      &kp LA(LC(C))  &trans                    &trans  &trans  &trans  &trans  &trans  &trans
+&kp LA(LC(J))     &kp LA(LC(K))      &kp LA(LC(R))  &kp LA(LC(T))      &kp LA(LC(Y))  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
+                                     &kp LA(LC(F))  &kp LA(LC(G))      &kp LA(LC(H))  &trans  &trans    &trans  &trans  &trans  &trans  &trans
             >;
         };
 
