@@ -23,6 +23,7 @@
         sh_bs_delete {
             bindings = <&kp DEL>;
             key-positions = <36 11>;
+            layers = <0>;
         };
     };
 
